@@ -41,15 +41,15 @@ Each project folder contains:
 | # | Project | Technologies | Description |
 |---|---------|--------------|-------------|
 | 1 | Sales Dashboard | Power BI, DAX, Power Query | Interactive sales dashboard with KPIs, trends, and segmentation |
-| 2 | SQL Data Quality Audit | SQL (PostgreSQL) | Data validation: duplicates, nulls, orphaned records, date inconsistencies |
+| 2 | SQL Data Quality Audit | SQL (PostgreSQL), Power BI, Python | Data validation: duplicates, nulls, orphaned records, date inconsistencies |
 | 3 | Python Data Cleaning | Python, pandas, Jupyter | Systematic cleaning of messy data (nulls, outliers, types) |
-| 4 | End-to-End Analytics Pipeline | SQL + Python + Power BI | Complete analytics cycle: extraction → cleaning → analysis → dashboard → insights |
+| 4 | End-to-End Analytics Pipeline | SQL + Python + Power BI + Machine Learning + | Complete analytics cycle: extraction → cleaning → analysis → dashboard → insights |
 
 ---
 
 ## Contact
 
-📧 **Email:** 1111542718@u.icesi.edu.co  
+📧 **Email:** jhormandavid2000@gmail.com
 📱 **Phone:** +57 314-826-5953  
 🔗 **LinkedIn:** [linkedin.com/in/jhorman-bernal](https://linkedin.com/in/jhorman-bernal)  
 💻 **GitHub:** [github.com/jhormanbernal](https://github.com/jhormanbernal)
